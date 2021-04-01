@@ -1,0 +1,6 @@
+package com.example.eazyfintask
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
